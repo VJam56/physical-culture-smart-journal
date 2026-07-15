@@ -1,6 +1,6 @@
 # Physical Culture Smart Journal
 
-**Version:** 1.3.0  
+**Version:** 1.3.1  
 **Status:** Foundation / Pre-implementation  
 **Last Updated:** July 2026
 
@@ -62,3 +62,12 @@ Build the smallest useful system first. Test it in real training. Expand only af
 ## Engineering Baseline
 
 See `ENGINEERING_BASELINE.md` and `docs/00_Project_Charter/PROJECT_CHARTER.md` for the complete project foundation.
+
+## Baseline Status
+
+The Engineering Baseline is formally locked. See:
+
+- `BASELINE_LOCK.md`
+- `docs/08_Decisions/ADR-007-lock-engineering-baseline.md`
+
+The active milestone is **Version 1.4.0 — Excel Intelligence**.

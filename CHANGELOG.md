@@ -1,24 +1,21 @@
 # Changelog
 
+All notable changes to this project will be documented here.
 
-## Engineering Baseline - 2026-07-15
+## [1.3.1] - 2026-07-15
 
 ### Added
 
-- Complete self-contained repository snapshot
-- Project Charter
-- Engineering Baseline marker
-- GitHub bug-report template
-- GitHub feature-proposal template
-- GitHub pull-request template
-- Restored code, database, asset, prototype, and test directories
+- Formal Engineering Baseline lock
+- ADR-006: Excel as authoritative MVP program source
+- ADR-007: Lock the Engineering Baseline
+- Baseline lock marker
 
 ### Changed
 
-- Repository distribution is now baseline-first rather than incremental-patch-first
-- Future updates should be applied through normal Git commits
-
-All notable changes to this project will be documented here.
+- Advanced the project into implementation preparation
+- Declared Version 1.4.0 — Excel Intelligence as the active milestone
+- Restricted future structural changes to material engineering needs
 
 ## [1.3.0] - 2026-07-15
 

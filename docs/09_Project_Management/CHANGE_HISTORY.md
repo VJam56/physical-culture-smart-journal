@@ -1,5 +1,14 @@
 # Human-Readable Change History
 
+## Version 1.3.1 — Baseline Lock
+
+- Formally locked the Engineering Baseline.
+- Declared the repository structure stable.
+- Made implementation the active project phase.
+- Accepted Excel as the authoritative program source for the MVP.
+- Added review triggers for future program-authoring changes.
+- Defined Version 1.4.0 — Excel Intelligence as the active milestone.
+
 ## Version 1.3.0 — Implementation Specifications
 
 - Added a dedicated `specs/` directory.
